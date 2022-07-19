@@ -14,8 +14,8 @@ h1{
     display: inline-block;
 }
 
-.menu li{
-    list-style: square;
+.nav{
+    display: inline-block;
 }
 
 .menu a{
