@@ -1,0 +1,20 @@
+body{
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    font-family: century gothic;
+}
+
+.menu li{
+    list-style: square;
+}
+
+.menu a{
+    color: rgb(4, 0, 255);
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.menu a:hover{
+    color: rgb(238, 255, 0);
+}
