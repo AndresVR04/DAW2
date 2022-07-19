@@ -5,6 +5,11 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+h1{
+    color: Red;
+    font-size: 25px;
+}
+
 .menu{
     display: inline-block;
 }
@@ -14,9 +19,9 @@ body{
 }
 
 .menu a{
-
+    color: blue;
     text-decoration: none;
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .menu a:hover{
